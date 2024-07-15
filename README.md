@@ -13,13 +13,13 @@ Welcome to my GitHub profile! I am a passionate Software Engineering student wit
 
 ## 🚀 Projects
 
-### [ML-SocioeconomicImpactOnSuicideRates] https://github.com/alejxx09/ML-SocioeconomicImpactOnSuicideRates
+### [ML-SocioeconomicImpactOnSuicideRates](https://github.com/alejxx09/ML-SocioeconomicImpactOnSuicideRates)
 A comprehensive study analyzing the impact of socioeconomic factors on suicide rates globally and in Panama using statistical methods and machine learning algorithms.
 
 ### [Chatbot for Sustainable Agriculture](https://github.com/yourusername/Chatbot-Sustainable-Agriculture)
 Developed a chatbot application to assist farmers with sustainable agriculture practices, integrating meteorological data and predictive analytics.
 
-### [Investigation of economic inequality in Panama] https://github.com/CarlosR10/Desigualdad-Economica-en-Panama
+### [Investigation of economic inequality in Panama](https://github.com/CarlosR10/Desigualdad-Economica-en-Panama)
 Groupal project of Samsung Innovation Campus to analyse and search for solutions to No poverty goal of Sustainable Development Goals.
 
 ## 📚 Education
