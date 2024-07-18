@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I am a passionate Software Engineering student wit
 
 ## 🛠 Skills
 
-- **Programming Languages**: Python, PHP, C, Java
-- **Databases**: MySQL, SQLite
+- **Programming Languages**: Python, Java
+- **Databases**: MySQL
 - **Machine Learning**: Scikit-learn, TensorFlow, TFLearn
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Software Development**: Flask, Django, RESTful APIs
+- **Software Development**: Flask, RESTful APIs
 - **Tools**: Git, Docker, Jupyter Notebooks, Excel, Trello, Android Studio, VisualStudioCode
 
 ## 🚀 Projects
