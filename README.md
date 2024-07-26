@@ -31,6 +31,6 @@ I am looking for opportunities to contribute to impactful projects and collabora
 ## 📫 Contact
 
 - Email: cardonaalejo03@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alejandro-cardona-henao-9b71212b7/?trk=opento_sprofile_goalscard
+- LinkedIn: [https://www.linkedin.com/in/alejandro-cardona-henao](https://www.linkedin.com/in/alejandro-cardona-henao/)
 
 I am always open to discussing new projects and searching job opportunities!
