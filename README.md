@@ -1,23 +1,20 @@
 # Hello, I'm Alejandro Cardona 👋
 
-Welcome to my GitHub profile! I am a passionate Software Engineering student with a strong interest in Machine Learning, Statistical Analysis and Software Development. I enjoy solving problems using statistical methods and complex algorithms to create impactful projects. 
+Welcome to my GitHub profile! I am a passionate Software Engineering student with a strong interest in Machine Learning, Data Analysis and Software Development. I enjoy solving problems using statistical methods and complex algorithms to create impactful projects. 
 
 ## 🛠 Skills
 
-- **Programming Languages**: Python, Java
+- **Programming Languages**: Python
 - **Databases**: MySQL
 - **Machine Learning**: Scikit-learn, TensorFlow, TFLearn
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Software Development**: Flask, RESTful APIs
-- **Tools**: Git, Docker, Jupyter Notebooks, Excel, Trello, Android Studio, VisualStudioCode
+- **Tools**: Git, Docker, Jupyter Notebooks, VisualStudioCode
 
 ## 🚀 Projects
 
 ### [ML-SocioeconomicImpactOnSuicideRates](https://github.com/alejxx09/ML-SocioeconomicImpactOnSuicideRates)
 A comprehensive study analyzing the impact of socioeconomic factors on suicide rates globally and in Panama using statistical methods and machine learning algorithms.
-
-### [Chatbot for Sustainable Agriculture](https://github.com/yourusername/Chatbot-Sustainable-Agriculture)
-Developed a chatbot application to assist farmers with sustainable agriculture practices, integrating meteorological data and predictive analytics.
 
 ### [Investigation of economic inequality in Panama](https://github.com/CarlosR10/Desigualdad-Economica-en-Panama)
 Groupal project of Samsung Innovation Campus to analyse and search for solutions to No poverty goal of Sustainable Development Goals.
